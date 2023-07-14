@@ -1,11 +1,5 @@
-# package-ts
+# math-utils
 
-Template generated with `@riadh-adrani/create-package`
+Javascript math utilities.
 
-## TODO
-
-- Rename `npmignore` to `.npmignore`
-- Rename `gitignore` to `.gitignore`
-- Add `NPM` secret key to Github.
-- Provide read/write access for github actions. 
-
+Check documentation [`here`](https://riadhadrani.github.io/utility-js/math.html)
