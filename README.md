@@ -2,4 +2,4 @@
 
 Javascript math utilities.
 
-Check documentation [`here`](https://riadhadrani.github.io/utility-js/math.html)
+Check documentation [`here`](https://riadhadrani.github.io/utils/math.html)
